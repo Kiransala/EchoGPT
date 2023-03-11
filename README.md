@@ -32,7 +32,3 @@ This will start the server on **[http://localhost:5000](http://localhost:5000/)*
 The front-end of the application is built using HTML, CSS, and JavaScript, and it allows the user to enter a message and receive a response from the OpenAI API.
 
 The back-end of the application is built using Node.js and the Express framework. When the user sends a message, the server sends a request to the OpenAI API, which generates a response based on the user's input. The response is then returned to the server, which sends it back to the client.
-
-## **Contributing**
-
-If you'd like to contribute to this project, please fork the repository and create a pull request. We welcome contributions of all kinds, including bug fixes, feature requests, and documentation improvements.
