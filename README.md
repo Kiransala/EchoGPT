@@ -7,21 +7,18 @@ This is a simple chat application that uses the OpenAI API to generate responses
 To get started with this project, you will need to sign up for the OpenAI API and obtain an API key. Once you have your API key, create a **`.env`** file in the root directory of the project and add the following line to it:
 
 ```jsx
-javascriptCopy code
 OPENAI_API_KEY=<your API key here>
 ```
 
 Next, you will need to install the project dependencies. To do this, run the following command:
 
 ```
-Copy code
 npm install
 ```
 
 Finally, start the application by running the following command:
 
 ```
-sqlCopy code
 npm start
 ```
 
